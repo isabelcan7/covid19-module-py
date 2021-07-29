@@ -1,4 +1,8 @@
 # covid19-module-py
+:red_circle::red_circle::red_circle: :es:<br />
+:yellow_circle::yellow_circle::yellow_circle: Spanish version<br />
+:red_circle::red_circle::red_circle: [here / aquí](https://isabelcan7.github.io/articles/covid19-python.html)<br />
+
 Project that uses the Covid-19 module in python to obtain information on current covid cases around the world.
 
 ![cover](https://user-images.githubusercontent.com/76132256/127327672-52a24802-901a-4f01-911f-347f1f79f10d.png)
